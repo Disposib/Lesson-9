@@ -1,0 +1,31 @@
+.img{
+    background: url("1css.jpg");
+    height: 770px;
+    width: 100%;
+}
+.head{
+    display: inline-flex;
+}
+.left{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    margin-left: 1150px;
+    text-indent: 25px;
+    font-family: monospace;
+    font-size: 15px;
+    padding: 10px;
+}
+.head{
+    margin-left: 15px;
+}
+.center{
+    font-family: monospace;
+    margin-left: 770px;
+    padding: 20px;
+    font-size: 15px;
+}
+.BUTTON{
+    margin-left: 870px;
+    font-size: 15px;
+}
