@@ -1,31 +1,88 @@
 .img{
-    background: url("1css.jpg");
+    background: url("Home\ Background@1X.jpeg");
     height: 770px;
     width: 100%;
 }
 .head{
     display: inline-flex;
+    color: white;
+    margin-left: 15px;
+    padding: 10px;
 }
 .left{
     display: flex;
     justify-content: flex-end;
     flex-direction: row;
-    margin-left: 1150px;
+    margin-left: 1100px;
     text-indent: 25px;
-    font-family: monospace;
     font-size: 15px;
     padding: 10px;
 }
-.head{
+.Startup{
     margin-left: 15px;
 }
 .center{
-    font-family: monospace;
-    margin-left: 770px;
-    padding: 20px;
+    text-align: center;
+    padding: 170px;
     font-size: 15px;
+    color: white;
 }
-.BUTTON{
-    margin-left: 870px;
-    font-size: 15px;
+.button{
+    font-size: 20px;
+    color: white;
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    overflow: hidden;
+    border-color: white;
+}
+.button2{
+    text-align: center;
+  
+}
+
+.header1{
+    text-align: center;
+    padding: 80px;
+}
+.box{
+    justify-content: space-between;
+    display: inline-block;
+    margin-left: 6.35%;
+    text-align: center;
+}
+.img1{
+    margin-left: 25px;
+    text-align: center;
+}
+.img2{
+    margin-left: 25px;
+    text-align: center;
+}
+.img3{
+    margin-left: 25px;
+    text-align: center;
+}
+.bird{
+    width: 25px;
+    height: auto;
+    display: inline;
+    vertical-align: middle;
+    text-align: center;
+    float: inherit;
+}
+.bodymain{
+    height: 700px;
+    background-color: white;
+}
+.footer{
+    background-color: red;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding: 50px;
+}
+.bird1{
+    display: inline;
+
 }
